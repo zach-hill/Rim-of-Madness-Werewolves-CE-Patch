@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Manifest>
+  <identifier>ROM-Werewolves-CEPatch</identifier>
+  <version>0.1.0.0</version>
+  <dependencies>
+    <li>CombatExtended</li>
+    <li>RoM-Werewolves</li>
+  </dependencies>
+  <incompatibleWith />
+  <loadBefore />
+  <loadAfter>
+    <li>CombatExtended</li>
+    <li>RoM-Werewolves</li>
+  </loadAfter>
+  <suggests />
+  <showCrossPromotions>false</showCrossPromotions>
+  <manifestUri>https://raw.githubusercontent.com/zach-hill/Rim-of-Madness-Werewolves-CE-Patch/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/zach-hill/Rim-of-Madness-Werewolves-CE-Patch/releases</downloadUri>
+</Manifest>

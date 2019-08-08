@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>*/JecsTools.DamageDefCleave[defName="ROM_CrinosSlash"]</xpath>
+        <value>
+            <li Class="CombatExtended.DamageDefExtensionCE">
+                <harmOnlyOutsideLayers>false</harmOnlyOutsideLayers>
+            </li>
+        </value>
+    </Operation>
+</Patch>

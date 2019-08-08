@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Call of Cthulhu - Werewolves - CE Patch</name>
+	<author>deathrat</author>
+	<url></url>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<description>Patches the ROM Werewolves mod to work with Combat Extended.</description>
+</ModMetaData>

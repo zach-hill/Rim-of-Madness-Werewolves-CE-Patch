@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  
+   <Operation Class="PatchOperationAddModExtension">
+    <xpath>/Defs/PawnKindDef[defName="ROM_WerewolfStraggler"]</xpath>
+    <value>
+      <li Class="CombatExtended.LoadoutPropertiesExtension">
+
+      </li>
+    </value>
+  </Operation>
+
+   <Operation Class="PatchOperationAddModExtension">
+    <xpath>/Defs/PawnKindDef[defName="ROM_WerewolfNewBlood"]</xpath>
+    <value>
+      <li Class="CombatExtended.LoadoutPropertiesExtension">
+
+      </li>
+    </value>
+  </Operation>
+  
+   <Operation Class="PatchOperationAddModExtension">
+    <xpath>/Defs/PawnKindDef[defName="ROM_WolfHandler"]</xpath>
+    <value>
+      <li Class="CombatExtended.LoadoutPropertiesExtension">
+
+      </li>
+    </value>
+  </Operation>
+  
+   <Operation Class="PatchOperationAddModExtension">
+    <xpath>/Defs/PawnKindDef[defName="ROM_Werewolf"]</xpath>
+    <value>
+      <li Class="CombatExtended.LoadoutPropertiesExtension">
+
+      </li>
+    </value>
+  </Operation>
+
+   <Operation Class="PatchOperationAddModExtension">
+    <xpath>/Defs/PawnKindDef[defName="ROM_WerewolfFang"]</xpath>
+    <value>
+      <li Class="CombatExtended.LoadoutPropertiesExtension">
+
+      </li>
+    </value>
+  </Operation>
+  
+  <Operation Class="PatchOperationAddModExtension">
+    <xpath>/Defs/PawnKindDef[defName="ROM_WerewolfAlpha"]</xpath>
+    <value>
+      <li Class="CombatExtended.LoadoutPropertiesExtension">
+        <primaryMagazineCount>
+          <min>3</min>
+          <max>5</max>
+        </primaryMagazineCount>
+      </li>
+    </value>
+  </Operation>
+  
+</Patch>
