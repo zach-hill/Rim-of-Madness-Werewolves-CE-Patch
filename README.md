@@ -1,1 +1,1 @@
-# Rim-of-Madness-Factions-CE-Patch
+# Rim-of-Madness-Werewolves-CE-Patch
